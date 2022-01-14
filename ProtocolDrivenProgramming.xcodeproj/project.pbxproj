@@ -16,6 +16,7 @@
 		43DBD0042791789A008FC95D /* ProtocolDrivenProgrammingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DBD0032791789A008FC95D /* ProtocolDrivenProgrammingTests.swift */; };
 		43DBD00E2791789A008FC95D /* ProtocolDrivenProgrammingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DBD00D2791789A008FC95D /* ProtocolDrivenProgrammingUITests.swift */; };
 		43DBD0102791789A008FC95D /* ProtocolDrivenProgrammingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DBD00F2791789A008FC95D /* ProtocolDrivenProgrammingUITestsLaunchTests.swift */; };
+		43DBD01F27917CD7008FC95D /* NewVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DBD01E27917CD7008FC95D /* NewVCViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		43DBD0092791789A008FC95D /* ProtocolDrivenProgrammingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProtocolDrivenProgrammingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		43DBD00D2791789A008FC95D /* ProtocolDrivenProgrammingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtocolDrivenProgrammingUITests.swift; sourceTree = "<group>"; };
 		43DBD00F2791789A008FC95D /* ProtocolDrivenProgrammingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtocolDrivenProgrammingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		43DBD01E27917CD7008FC95D /* NewVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewVCViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				43DBCFF527917899008FC95D /* Assets.xcassets */,
 				43DBCFF727917899008FC95D /* LaunchScreen.storyboard */,
 				43DBCFFA27917899008FC95D /* Info.plist */,
+				43DBD01E27917CD7008FC95D /* NewVCViewController.swift */,
 			);
 			path = ProtocolDrivenProgramming;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				43DBCFF127917898008FC95D /* ViewController.swift in Sources */,
 				43DBCFED27917898008FC95D /* AppDelegate.swift in Sources */,
+				43DBD01F27917CD7008FC95D /* NewVCViewController.swift in Sources */,
 				43DBCFEF27917898008FC95D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
